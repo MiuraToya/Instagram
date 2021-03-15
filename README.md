@@ -6,11 +6,11 @@
 ・Swift
 
 # ライブラリ
-・Firebase ver 6.27.0
-・Firebase/Analytics
-・Firebase/Auth
-・Firebase/Firestore
-・Firebase/Storage
-・FirebaseUI/Storage
-・SVProgressHUD ver 2.2.5
+・Firebase ver 6.27.0  
+・Firebase/Analytics  
+・Firebase/Auth  
+・Firebase/Firestore  
+・Firebase/Storage  
+・FirebaseUI/Storage  
+・SVProgressHUD ver 2.2.5  
 ・CLImageEditor/AllTools ver 0.2.4
